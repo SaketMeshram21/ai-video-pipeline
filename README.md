@@ -1,4 +1,8 @@
 # AI Video Generation Pipeline 🎬
+## Demo
+
+Watch the generated video here:
+https://youtu.be/biaVqENK8dk?si=kS019I3pU8pV9059 (with 3 other videos)
 
 > **One-command automated YouTube video creation: Topic → Script → Voice → Visuals → Video**
 
