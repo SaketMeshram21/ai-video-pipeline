@@ -64,5 +64,3 @@ Change video settings in `video_maker.py`:
 - Resolution, FPS, codec
 - Subtitle style, position, size
 - Thumbnail layout
-
-## 📄 License
